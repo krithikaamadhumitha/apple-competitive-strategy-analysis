@@ -42,7 +42,7 @@ The case therefore examines how Apple can evolve its strategy while preserving t
 1. **Integrated Innovation is a Core Capability**: Apple's competitive differentiation is strongly connected to the integration of hardware, software and services into a cohesive ecosystem.
 2. **Operational Excellence Supports Innovation**: The analysis highlights the importance of Apple's supply-chain and operational capabilities in enabling efficiency, scalability and consistent product delivery.
 3. **Ecosystem Creates Customer Stickiness**: The integration of devices and services creates switching costs and reinforces the value of remaining within the Apple ecosystem.
-4. **Services Reduce Hardware Dependence**: The expansion of Services—including the App Store, iCloud, Apple Music, Apple Pay and Apple TV+—provides a recurring revenue stream and supports diversification beyond hardware.
+4. **Services Reduce Hardware Dependence**: The expansion of Services including the App Store, iCloud, Apple Music, Apple Pay and Apple TV+ provides a recurring revenue stream and supports diversification beyond hardware.
 5. **Global Standardization Has Limits**: The case identifies the need to balance Apple's globally consistent premium positioning with greater local responsiveness in emerging markets through areas such as pricing, products, services and operations.
 6. **AI is Becoming an Important Strategic Dimension**: The project identifies AI as an important part of Apple's future strategy, particularly through integration across its ecosystem and the development of Apple Intelligence.
 
