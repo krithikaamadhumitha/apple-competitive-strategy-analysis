@@ -22,29 +22,29 @@ The case therefore examines how Apple can evolve its strategy while preserving t
 • Examine the role of Services, AI and emerging technologies in Apple's future growth.<br>
 • Develop strategic recommendations for sustaining long-term competitive advantage.
 
-**Project Lifecycle**: The analysis followed a structured strategic-analysis approach:
-1. **Business Context**: Understanding Apple's transformation, product strategy, ecosystem and operational evolution.
-2. **Core Competency Analysis**: Examining integrated innovation, design, branding, ecosystem integration and operational excellence.
-3. **International Strategy Analysis**: Evaluating Apple's global standardization approach and identifying areas where greater local adaptation could strengthen market penetration.
-4. **Competitive Advantage Assessment**: Analyzing ecosystem lock-in, Services growth, brand equity, integrated technology and operational capabilities alongside emerging competitive pressures.
-5. **Strategic Gap Identification**: Identifying challenges including iPhone dependency, competitive feature parity, emerging-market pressure and innovation expectations.
-6. **Strategic Recommendations**: Developing recommendations around AI, pricing, international expansion, Services, Vision Pro, sustainability and enterprise opportunities.
-7. **Action Plan**: Translating the recommendations into strategic priorities for sustaining Apple's competitive advantage.
+**Project Lifecycle**: The analysis followed a structured strategic-analysis approach:<br>
+• _Business Context:_ Understanding Apple's transformation, product strategy, ecosystem and operational evolution.<br>
+• _Core Competency Analysis:_ Examining integrated innovation, design, branding, ecosystem integration and operational excellence.<br>
+• _International Strategy Analysis:_ Evaluating Apple's global standardization approach and identifying areas where greater local adaptation could strengthen market penetration.<br>
+• _Competitive Advantage Assessment:_ Analyzing ecosystem lock-in, Services growth, brand equity, integrated technology and operational capabilities alongside emerging competitive pressures.<br>
+• _Strategic Gap Identification:_ Identifying challenges including iPhone dependency, competitive feature parity, emerging-market pressure and innovation expectations.<br>
+• _Strategic Recommendations:_ Developing recommendations around AI, pricing, international expansion, Services, Vision Pro, sustainability and enterprise opportunities.<br>
+• _Action Plan:_ Translating the recommendations into strategic priorities for sustaining Apple's competitive advantage.
 
 **Methodology** : The project used a strategic management and competitive analysis framework to evaluate Apple's business model and future direction. The key analytical areas included:<br>
-• **Integrated Innovation Analysis**: Examined how Apple combines hardware, software and services into an integrated ecosystem and how this integration contributes to differentiation and customer loyalty.<br>
-• **International Strategy Analysis**: Compared Apple's existing global-standardization approach with a proposed transnational adaptation approach, covering product strategy, pricing, branding, market presence, supply chain and services.<br>
-• **Competitive Advantage Analysis**: Evaluated the sustainability of Apple's advantage through Ecosystem integration, Brand equity, Design excellence, Services growth, Operational excellence, Switching costs and Technology integration<br>
-• **Competitive Forces Analysis**: The report also assessed Competitive rivalry, Threat of new entrants, Bargaining power of suppliers, Bargaining power of customers and Threat of substitute<br>
-•  **Strategic Progress Assessment**: The analysis compared strategic recommendations with Apple's actions between 2017 and 2025, including AI investment, international pricing, competitive response and pricing power.
+• _Integrated Innovation Analysis_: Examined how Apple combines hardware, software and services into an integrated ecosystem and how this integration contributes to differentiation and customer loyalty.<br>
+• _International Strategy Analysis_: Compared Apple's existing global-standardization approach with a proposed transnational adaptation approach, covering product strategy, pricing, branding, market presence, supply chain and services.<br>
+• _Competitive Advantage Analysis_: Evaluated the sustainability of Apple's advantage through Ecosystem integration, Brand equity, Design excellence, Services growth, Operational excellence, Switching costs and Technology integration<br>
+• _Competitive Forces Analysis_: The report also assessed Competitive rivalry, Threat of new entrants, Bargaining power of suppliers, Bargaining power of customers and Threat of substitute<br>
+• _Strategic Progress Assessment_: The analysis compared strategic recommendations with Apple's actions between 2017 and 2025, including AI investment, international pricing, competitive response and pricing power.
 
-**Key Insights**
-1. **Integrated Innovation is a Core Capability**: Apple's competitive differentiation is strongly connected to the integration of hardware, software and services into a cohesive ecosystem.
-2. **Operational Excellence Supports Innovation**: The analysis highlights the importance of Apple's supply-chain and operational capabilities in enabling efficiency, scalability and consistent product delivery.
-3. **Ecosystem Creates Customer Stickiness**: The integration of devices and services creates switching costs and reinforces the value of remaining within the Apple ecosystem.
-4. **Services Reduce Hardware Dependence**: The expansion of Services including the App Store, iCloud, Apple Music, Apple Pay and Apple TV+ provides a recurring revenue stream and supports diversification beyond hardware.
-5. **Global Standardization Has Limits**: The case identifies the need to balance Apple's globally consistent premium positioning with greater local responsiveness in emerging markets through areas such as pricing, products, services and operations.
-6. **AI is Becoming an Important Strategic Dimension**: The project identifies AI as an important part of Apple's future strategy, particularly through integration across its ecosystem and the development of Apple Intelligence.
+**Key Insights**:<br>
+• _Integrated Innovation is a Core Capability_: Apple's competitive differentiation is strongly connected to the integration of hardware, software and services into a cohesive ecosystem.<br>
+• _Operational Excellence Supports Innovation_: The analysis highlights the importance of Apple's supply-chain and operational capabilities in enabling efficiency, scalability and consistent product delivery.<br>
+• _Ecosystem Creates Customer Stickiness_: The integration of devices and services creates switching costs and reinforces the value of remaining within the Apple ecosystem.<br>
+• _Services Reduce Hardware Dependence_: The expansion of Services including the App Store, iCloud, Apple Music, Apple Pay and Apple TV+ provides a recurring revenue stream and supports diversification beyond hardware.<br>
+• _Global Standardization Has Limits_: The case identifies the need to balance Apple's globally consistent premium positioning with greater local responsiveness in emerging markets through areas such as pricing, products, services and operations.<br>
+• _AI is Becoming an Important Strategic Dimension_: The project identifies AI as an important part of Apple's future strategy, particularly through integration across its ecosystem and the development of Apple Intelligence.
 
 **Key Outcomes**: The analysis resulted in a set of strategic recommendations focused on sustaining Apple's competitive advantage:<br>
 • Deepen ecosystem integration<br>
@@ -60,12 +60,12 @@ The case therefore examines how Apple can evolve its strategy while preserving t
 The final action plan further proposed integrating Apple Intelligence across hardware, introducing a sustainable hybrid pricing model for emerging markets, expanding Vision Pro accessibility and developing strategic B2B/enterprise services.
 
 **Business Impact**:  The strategic recommendations are intended to support Apple's long-term resilience across several dimensions:<br>
-• **Revenue Diversification**: Reducing dependence on a single product category by strengthening Services and developing additional revenue streams.<br>
-• **Market Expansion**: Improving accessibility and responsiveness in emerging markets through localized products, pricing and services.<br>
-• **Technology Leadership**: Strengthening AI and emerging-technology capabilities across Apple's ecosystem.<br>
-• **Customer Experience**: Deepening integration across devices and services to create a seamless user experience.<br>
-• **Operational Resilience**: Using Apple's operational and supply-chain capabilities to support global scale and adaptability.<br>
-• **Competitive Sustainability**: Building on Apple's existing ecosystem, brand and operational strengths while addressing competitive and market pressures.
+• _Revenue Diversification_: Reducing dependence on a single product category by strengthening Services and developing additional revenue streams.<br>
+• _Market Expansion_: Improving accessibility and responsiveness in emerging markets through localized products, pricing and services.<br>
+• _Technology Leadership_: Strengthening AI and emerging-technology capabilities across Apple's ecosystem.<br>
+• _Customer Experience_: Deepening integration across devices and services to create a seamless user experience.<br>
+• _Operational Resilience_: Using Apple's operational and supply-chain capabilities to support global scale and adaptability.<br>
+• _Competitive Sustainability_: Building on Apple's existing ecosystem, brand and operational strengths while addressing competitive and market pressures.
 
 **Technologies / Frameworks Used**: <br>
 • Strategic Management<br>
